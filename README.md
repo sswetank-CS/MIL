@@ -30,3 +30,5 @@ http://www.gaussianprocess.org/gpml/
 
 https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0
 
+* Multi Instance Learning
+https://arxiv.org/pdf/1612.03365.pdf
